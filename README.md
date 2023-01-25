@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SadiqahMasy
 - 👀 I’m interested in bettering my programming skills and working on learning more programming languages.
-- 😎 I currently know c++ and a bit of assembly (took a basic class on it)
-- 🌱 I’m currently learning Python because I need it to take Algorithms next semester.
+- 😎 I currently know c++ and C, python, and a little c# and javascript
+- 🌱 I’m currently learning more about web development with APIs and other important aspects
 - 💞️ I’m looking to collaborate on anything that will increase my knowledge 
 - 📫 How to reach me ...
 
